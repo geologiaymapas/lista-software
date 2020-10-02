@@ -3,8 +3,8 @@ Lista de software OpenSource o con licencias libres/gratis para el uso en multip
 
 
 ## Programacion
-Visual Studio Code [VSCode] (https://code.visualstudio.com/)
+Visual Studio Code [VSCode](https://code.visualstudio.com/)
 
 
 ## Bases de Datos
-MySQL Workbench [MySQL Workbench] (https://www.mysql.com/products/workbench/)
+MySQL Workbench [MySQL Workbench](https://www.mysql.com/products/workbench/)
